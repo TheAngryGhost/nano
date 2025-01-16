@@ -4,6 +4,7 @@ A minimalist web proxy built to be simple yet powerful.
 
 Winner of the 2024 Proxathon.
 
+
 ## Features
 
 -   Minimal design
